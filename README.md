@@ -1,7 +1,7 @@
 # KatmanliMimariile_Asp.Net_YazOkuluDerslerProjesi
 
 ## Asp.Net Bootsrap ile Katmanlı Mimaride Yaz Okulu Kayıt Projesi Yaptım bu proje yaptım 
-### Projeyi youtube **Murat Yücedağ** kanalında var projenin oynatma listesi: [Asp.Net Bootsrap ile Katmanlı Mimaride Yaz Okulu Kayıt Projesi](https://www.youtube.com/playlist?list=PLKnjBHu2xXNMSPomGvyjG19YGXIdgdTka)
+### Proje youtube **Murat Yücedağ** kanalında var projenin oynatma listesi: [Asp.Net Bootsrap ile Katmanlı Mimaride Yaz Okulu Kayıt Projesi](https://www.youtube.com/playlist?list=PLKnjBHu2xXNMSPomGvyjG19YGXIdgdTka)
 ### Proje Detay
 #### Bootsrap tema , ilişkili tablolar , 5 Katmanlı mimari kullanarak geliştime yaptım proje halen gelişime açık bi projedir
 
