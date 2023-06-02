@@ -5,7 +5,7 @@
 ### Proje Detay
 #### Bootsrap tema , ilişkili tablolar , 5 Katmanlı mimari kullanarak geliştime yaptım proje halen gelişime açık bi projedir
 
-### Projeden resimler
+### Projeden bazı resimler
 ![resim1](https://github.com/MhmmdAkcby/KatmanliMimariile_Asp_YazOkuluDerslerProjesi/assets/129775174/f46013f2-d5c7-4d8a-8080-bad2d09c8a83) 
 
 ![resim2](https://github.com/MhmmdAkcby/KatmanliMimariile_Asp_YazOkuluDerslerProjesi/assets/129775174/41630146-9312-4534-ad19-339b87a0b24a) 
